@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faceted-project>
+  <runtime name="com.gm.sdk.tools.wrt:1.1"/>
+  <fixed facet="tmw.geolocation"/>
+  <fixed facet="system"/>
+  <fixed facet="tmw.core"/>
+  <fixed facet="wst.jsdt.web"/>
+  <installed facet="system" version="1.0"/>
+  <installed facet="wst.jsdt.web" version="1.0"/>
+  <installed facet="tmw.core" version="1.0"/>
+  <installed facet="tmw.geolocation" version="1.0"/>
+</faceted-project>
